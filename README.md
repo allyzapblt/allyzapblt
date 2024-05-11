@@ -1,7 +1,7 @@
 ### Hi, I'm Allyza! 👋
  
 👩🏻‍🎓 Computer Science student<br/>
-💭 Currently learning about data analytics<br/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allyzapblt) 
 
